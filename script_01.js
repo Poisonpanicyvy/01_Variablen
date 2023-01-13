@@ -22,7 +22,15 @@
 // console.log(familyName);
 // console.log(firstName + " " + familyName);
 
-// Variable test
+/* JS ist eine untypisierte Sprache! | untyped */
+
+let test; 
+test = "hallo";
+test = 2;
+test = true;
+
+console.log("Datenyp: " + typeof test);
+console.log("Inhalt: " + test);
 
 let test;
 test = "hallo";
