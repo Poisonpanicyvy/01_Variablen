@@ -24,20 +24,8 @@
 
 /* JS ist eine untypisierte Sprache! | untyped */
 
-let test; 
-test = "hallo";
-test = 2;
-test = true;
+const test = "Hallo";
 
-console.log("Datenyp: " + typeof test);
-console.log("Inhalt: " + test);
-
-let test;
-test = "hallo";
-test = 2;
-test = true;
-
-console.log("Datentyp: " + typeof test);
+// test = "hallo";
 
 console.log("Inhalt: " + test);
-
